@@ -1,0 +1,9 @@
+body {
+  background-color: blueviolet;
+}
+
+.my-header {
+  text-align: center;
+  font-size: 3rem;
+  color: #fff;
+}
